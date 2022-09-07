@@ -1,0 +1,25 @@
+i{
+    font-size: 30px;
+    color: black;
+}
+
+p{
+    font-size: 15px;
+    text-align: justify;
+}
+
+.pp{
+    top: 1cm;
+}
+
+ul{
+    margin-top: 20px;
+}
+
+li{
+    list-style: circle;
+}
+
+.item{
+    list-style: none;
+}
